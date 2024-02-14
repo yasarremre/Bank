@@ -7,7 +7,7 @@ import java.util.*;
  * @author Emre YASAR
  */
 
-public class Assignment03_20210808602 {
+public class BankProject {
 }
 
 class Bank {
